@@ -1,3 +1,12 @@
+# Custom
+human-eval/
+
+lora-finetuned**
+test-finetuned-opt-350m/
+tmp_trainer/
+wandb/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
