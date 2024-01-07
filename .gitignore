@@ -1,7 +1,7 @@
 # Custom
-human-eval/
 
 lora-finetuned**
+lora_finetuned**
 test-finetuned-opt-350m/
 tmp_trainer/
 wandb/
