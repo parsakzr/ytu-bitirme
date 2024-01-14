@@ -51,7 +51,7 @@ def replace_entry_point(
         # replace the function name with entry point
         # find and replace after 'def' and before '('
         generated_solution = generated_solution.replace(
-            generated_solution.split("def")[1].split("(")[0], entry_point
+            generated_solution.split("def ")[1].split("(")[0], entry_point
         )
         # print(row["task_id"])
         # print(f"Replaced: {generated_solution}")
