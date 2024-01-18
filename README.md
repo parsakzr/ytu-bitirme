@@ -21,7 +21,9 @@ You can find the models in the following links in huggingfaces' model hub:
 - [Contact](#contact)
 
 ## Installation
+
 This repository comes with a utility package [parsakzr/codellm](https://github.com/parsakzr/codellm)
+
 To install and use the project locally, follow these steps:
 
 1. Clone the repository
