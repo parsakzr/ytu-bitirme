@@ -8,8 +8,8 @@ This repository contains the code for our final year project at Yildiz Technical
 
 You can find the models in the following links in huggingfaces' model hub:
 
-- [CodeGen](https://huggingface.co/parsak/codegen-350M-mono-lora-instruction)
-- [Mistral-code](https://huggingface.co/parsak/mistral-code-7b-instruct)
+- [parsak/CodeGen](https://huggingface.co/parsak/codegen-350M-mono-lora-instruction)
+- [parsak/Mistral-code](https://huggingface.co/parsak/mistral-code-7b-instruct)
 - [Phi2-code](https://huggingface.co/parsak/phi-2-code-instruct)
 
 ## Table of Contents
@@ -21,7 +21,7 @@ You can find the models in the following links in huggingfaces' model hub:
 - [Contact](#contact)
 
 ## Installation
-
+This repository comes with a utility package [parsakzr/codellm](https://github.com/parsakzr/codellm)
 To install and use the project locally, follow these steps:
 
 1. Clone the repository
