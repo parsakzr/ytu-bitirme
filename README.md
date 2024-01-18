@@ -8,9 +8,9 @@ This repository contains the code for our final year project at Yildiz Technical
 
 You can find the models in the following links in huggingfaces' model hub:
 
-- [parsak/CodeGen](https://huggingface.co/parsak/codegen-350M-mono-lora-instruction)
-- [parsak/Mistral-code](https://huggingface.co/parsak/mistral-code-7b-instruct)
-- [Phi2-code](https://huggingface.co/parsak/phi-2-code-instruct)
+- [codegen-instruct on HF hub](https://huggingface.co/parsak/codegen-350M-mono-lora-instruction)
+- [mistral-code on HF hub](https://huggingface.co/parsak/mistral-code-7b-instruct)
+- [phi2-code on HF hub](https://huggingface.co/parsak/phi-2-code-instruct)
 
 ## Table of Contents
 
