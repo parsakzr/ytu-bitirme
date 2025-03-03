@@ -4,6 +4,8 @@
 
 ## Description
 
+Final Report can be accessed from [final-report.pdf](<final-report.pdf>)
+
 This repository contains the code for our final year project at Yildiz Technical University.
 
 You can find the models in the following links in huggingfaces' model hub:
